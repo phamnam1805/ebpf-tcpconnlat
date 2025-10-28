@@ -51,7 +51,7 @@ ebpf-tcpconnlat/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ebpf-tcpconnlat.git
+git clone https://github.com/phamnam1805/ebpf-tcpconnlat.git
 cd ebpf-tcpconnlat
 
 # Install dependencies
